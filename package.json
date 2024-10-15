@@ -87,7 +87,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Suraj Mendhe",
   "license": "ISC",
-  "description": ""
+  "description": "ShopNexus Project"
 }
